@@ -1,0 +1,18 @@
+25/01/2012
+
+Avances:
+-cada quien va a hacer una cuenta en kaggle y para cada proyecto se crea un equipo y vamos a respetar el limite de integrantes por equipo, por
+lo pronto sólo va a ser un equipo. 
+-Vamos a resolver el problema de titanic para repasar y entender la página
+-vamos a usar R, otros softwares los usaremos despues
+-por lo pronto, nos reuniremos a las 4 con el profe el día jueves. 
+-el mail oficial va a ser el de Gmail
+-les voy a compartir mis notas de aprendizaje para que puedan entender los métodos que podremos usar y vean el código.
+-cada sesión se harán avances de lo que se hizo en la sesión del sabado con tareas y pendientes. Por esta vez se los mandaré por mail
+pero proximamente los subiremos a githob. esta en discusión si se usara evernote, comenten sus opiniones
+
+Tareas y pendientes:
+-cada quien cree una cuenta de kaggle avisenle a miguel para que los invite al equipo.
+-cada quien tiene que crear una cuenta en Github (para compartir los proyectos). Justificación:  Hacer más eficiente el trabajo en equipo y mejorar el curriculum.
+- les voy a compartir los apuntes que tengo y librerias de R  via google drive neceisto sus correos de gmail
+-les recomiendo bajar Rattle para R
