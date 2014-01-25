@@ -1,4 +1,4 @@
-25/01/2012
+25/Enero/2012
 
 Avances:
 -cada quien va a hacer una cuenta en kaggle y para cada proyecto se crea un equipo y vamos a respetar el limite de integrantes por equipo, por
@@ -13,6 +13,6 @@ pero proximamente los subiremos a githob. esta en discusión si se usara evernote
 
 Tareas y pendientes:
 -cada quien cree una cuenta de kaggle avisenle a miguel para que los invite al equipo.
--cada quien tiene que crear una cuenta en Github (para compartir los proyectos). Justificación:  Hacer más eficiente el trabajo en equipo y mejorar el curriculum.
+-cada quien tiene que crear una cuenta en Github (para compartir los proyectos). Justificación:  Hacer más eficiente el trabajo en equipo y mejorar el curriculum y manden por Whatsapp su username.
 - les voy a compartir los apuntes que tengo y librerias de R  via google drive neceisto sus correos de gmail
 -les recomiendo bajar Rattle para R
